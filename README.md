@@ -54,11 +54,11 @@ I'm Kelechi, a Project Manager with Finance background & love for anything Tech.
 ## <h3 align="left">GitHub Stats</h3>
 
 <a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=PluckyPrecious&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Mr-Bilal-Ashraf&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 <a />
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PluckyPrecious&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Bilal-Ashraf&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
   
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=PluckyPrecious&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Mr-Bilal-Ashraf&theme=discord&no-frame=true&no-bg=false&margin-w=4)
