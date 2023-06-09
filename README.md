@@ -1,10 +1,3 @@
-<style>
-    #imgs img{
-        padding: 0 7px;
-    }
-
-</style>
-
 <div style="display: flex; flex-direction: column; align-items: center; font-family: monospace;">
     <h1 style="border-bottom: 1px solid #d4c7c7; padding: 10px 20px;">Hello there, I'm Mr.Az here!</h1>
     <p>I am a young-dumb <span style="font-size: 20px;">🙃</span> Python Django Full Stack Developer from <span
@@ -45,46 +38,41 @@
     <h2>Languages and Tools:</h2>
     <p id="imgs">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-             alt="html5" width="50" height="50"/>
+             alt="html5" width="50" height="50" style="padding: 0 7px;"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-             alt="css3" width="50" height="50"/>
+             alt="css3" width="50" height="50" style="padding: 0 7px;"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-             alt="javascript" width="50" height="50"/>
-
+             alt="javascript" width="50" height="50" style="padding: 0 7px;"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-             alt="python" width="50" height="50"/>
+             alt="python" width="50" height="50" style="padding: 0 7px;"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg"
-             alt="javascript" width="50" height="50"/>
+             alt="Django" width="50" height="50" style="padding: 0 7px;"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg"
-             alt="postgresql" width="50" height="50"/>
+             alt="Flask" width="50" height="50" style="padding: 0 7px;"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-original.svg"
-             alt="postgresql" width="50" height="50"/>
-
+             alt="FastAPI" width="50" height="50" style="padding: 0 7px;"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-             alt="postgresql" width="50" height="50"/>
+             alt="postgresql" width="50" height="50" style="padding: 0 7px;"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg"
-             alt="postgresql" width="50" height="50"/>
+             alt="mysql" width="50" height="50" style="padding: 0 7px;"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original-wordmark.svg"
-             alt="postgresql" width="50" height="50"/>
+             alt="sqlite" width="50" height="50" style="padding: 0 7px;"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redis/redis-original-wordmark.svg"
-             alt="postgresql" width="50" height="50"/>
+             alt="redis" width="50" height="50" style="padding: 0 7px;"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-             alt="mongodb" width="50" height="50"/>
-
+             alt="mongodb" width="50" height="50" style="padding: 0 7px;"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg"
-             alt="postgresql" width="50" height="50"/>
-
+             alt="angularjs" width="50" height="50" style="padding: 0 7px;"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg"
-             alt="postgresql" width="50" height="50"/>
-
+             alt="docker" width="50" height="50" style="padding: 0 7px;"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain-wordmark.svg"
-             alt="postgresql" width="50" height="50"/>
+             alt="ubuntu" width="50" height="50" style="padding: 0 7px;"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg"
-             alt="postgresql" width="50" height="50"/>
+             alt="git" width="50" height="50" style="padding: 0 7px;"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg"
-             alt="postgresql" width="50" height="50"/>
+             alt="github" width="50" height="50" style="padding: 0 7px;"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original-wordmark.svg"
-             alt="postgresql" width="50" height="50"/>
+             alt="jquery" width="50" height="50" style="padding: 0 7px;"/>
     </p>
 </div>
 
