@@ -67,4 +67,4 @@
      height="300px">
 <img src="https://github-readme-stats.vercel.app/api?username=Mr-Bilal-Ashraf&show_icons=true&theme=transparent&hide_border=true"
      width="400px" height="300px">
-<img src="https://github-profile-trophy.vercel.app/?username=Mr-Bilal-Ashraf&theme=transparent&margin-w=5&margin-h=5&no-frame=true">
+<img src="https://github-profile-trophy.vercel.app/?username=Mr-Bilal-Ashraf&theme=transparent&margin-w=5&margin-h=5&no-frame=true&no-bg=true">
