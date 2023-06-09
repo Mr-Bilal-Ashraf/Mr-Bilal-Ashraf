@@ -15,7 +15,7 @@
 
 <h2>Connect with me:</h2>
 <a href="https://www.linkedin.com/in/muhammad-bilal-azaad/" target="_blank">
-    <img src="[https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)"
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="linkedin" width="40" height="30">
 </a>
 <a href="https://t.me/mr_azaad622" target="_blank">
