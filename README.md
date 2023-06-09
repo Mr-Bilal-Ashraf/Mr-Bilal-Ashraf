@@ -1,64 +1,95 @@
-<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<style>
+    #imgs img{
+        padding: 0 7px;
+    }
 
-# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.:blush:
+</style>
 
-<img src="https://github.com/PluckyPrecious/PluckyPrecious/blob/9565cf79245d4787c6fcade1bda5ceb011d287cd/F25AC92B-312E-4CD7-A884-AD0FDEC99A80.jpeg" alt="banner that says Kelechi Precious Nwachukwu - code newbie always. content curator. contributing for good alongside an oil paint illustration of Kelechi"> 
-I'm Kelechi, a Project Manager with Finance background & love for anything Tech. Python is my first language, exploring the front & back-end of the web, can't be caught in the middle.:wink: Open-source documentation & translation contributor, big team player. Igbo native, cartoon freak, chocolate, good food, and karaoke.
+<div style="display: flex; flex-direction: column; align-items: center; font-family: monospace;">
+    <h1 style="border-bottom: 1px solid #d4c7c7; padding: 10px 20px;">Hello there, I'm Mr.Az here!</h1>
+    <p>I am a young-dumb <span style="font-size: 20px;">🙃</span> Python Django Full Stack Developer from <span
+            style="font-size: 22px;">🇵🇰</span></p>
+</div>
 
+<ul style="font-size: 18px; line-height: 32px;">
+    <li><span style="font-size: 20px;">📋</span> Ask me about Python (Django), SQL (Schema Creation)</li>
+    <li><span style="font-size: 20px;">📨</span> Reach me at
+        <a href="mailto:mr.bilal2066@gmail.com" target="_blank" style="text-decoration: none;">
+            <b>mr.bilal2066@gmail.com</b>
+        </a>
+    </li>
+    <li><span style="font-size: 20px;">⚡</span> Fun Fact
+        <b>Death is more loyal than people!</b>
+    </li>
+</ul>
 
-## More About Me:woman:
+<div style="padding-left: 10px;">
+    <h2>Connect with me:</h2>
+    <div>
+        <a href="mailto:mr.bilal2066@gmail.com" target="_blank">
+            <img src="https://w7.pngwing.com/pngs/718/873/png-transparent-computer-icons-email-symbol-email-miscellaneous-angle-logo.png"
+                 alt="gmail" width="40" height="30">
+        </a>
+        <a href="https://www.linkedin.com/in/muhammad-bilal-azaad/" target="_blank">
+            <img src="https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667"
+                 alt="linkedin" width="40" height="30">
+        </a>
+        <a href="https://t.me/mr_azaad622" target="_blank">
+            <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/telegram-black-icon.svg"
+                 alt="telegram" width="40" height="30">
+        </a>
+    </div>
+</div>
 
-:purple_heart: Kind people are my kinda people
+<div style="padding-left: 10px;">
+    <h2>Languages and Tools:</h2>
+    <p id="imgs">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+             alt="html5" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+             alt="css3" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+             alt="javascript" width="50" height="50"/>
 
-:100: Radical for Jesus
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+             alt="python" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg"
+             alt="javascript" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg"
+             alt="postgresql" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-original.svg"
+             alt="postgresql" width="50" height="50"/>
 
-:star: Uniquely naive tho independent
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+             alt="postgresql" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg"
+             alt="postgresql" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original-wordmark.svg"
+             alt="postgresql" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redis/redis-original-wordmark.svg"
+             alt="postgresql" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+             alt="mongodb" width="50" height="50"/>
 
-:apple: Beginner mindset (**open to learning**)
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg"
+             alt="postgresql" width="50" height="50"/>
 
-:sparkles: Child at heart (**i see the world as magical**)
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg"
+             alt="postgresql" width="50" height="50"/>
 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain-wordmark.svg"
+             alt="postgresql" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg"
+             alt="postgresql" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg"
+             alt="postgresql" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original-wordmark.svg"
+             alt="postgresql" width="50" height="50"/>
+    </p>
+</div>
 
->*I love to race in where angels fear to tread. Committed to face fears & overcome them. In order to escape any feeling of being stuck, i often travel.*
-
-
-## Find me around the WWW🌎
-
-<p align="center">
-  
-  
-- Contributing on: <a href="https://github.com/PluckyPreciou?tab=followers">
-    <img src="https://img.shields.io/github/followers/PluckyPrecious?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
-  </a>
-
-
-- Trying to be up to good on: <a href="http://twitter.com/PluckyPrecious">
-    <img src="https://img.shields.io/twitter/follow/PluckyPrecious?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-
-
-- Lazy curating pluckyspiration on: <a href="https://www.youtube.com/channel/UC2-U73E-uyf_lNCDO0yENlQ?view_as=subscriber">YouTube</a> or <a href="https://predigt.dev/">Predigt</a>
-
-</p>
-
-
-## Latest Blog Posts📩
-<!-- BLOG-POST-LIST:START -->
-- [Don’t Stop Until You’re Proud](https://predigt.dev/iwd-dont-stop-until-youre-proud)
-- [Predictive Model: My First Tech Task](https://predigt.dev/predictive-model-my-first-tech-task)
-- [A Rookie In Python But Loving It](https://predigt.dev/a-rookie-in-python-but-loving-it)
-- [Difficulties In My Tech Journey: A Survival Guide](https://predigt.dev/difficulties-in-my-tech-journey-a-survival-guide)
-- [The Ultimate Revelation Of My Awesome Tech Transition Journey](https://predigt.dev/the-ultimate-revelation-of-my-awesome-tech-transition-journey)
-<!-- BLOG-POST-LIST:END -->
-
-## <h3 align="left">GitHub Stats</h3>
-
-<a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Mr-Bilal-Ashraf&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a />
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Bilal-Ashraf&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
-  
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Mr-Bilal-Ashraf&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Bilal-Ashraf&layout=compact" width="400px"
+     height="300px">
+<img src="https://github-readme-stats.vercel.app/api?username=Mr-Bilal-Ashraf&show_icons=true&theme=transparent"
+     width="400px" height="300px">
+<img src="https://github-profile-trophy.vercel.app/?username=Mr-Bilal-Ashraf&theme=transparent&margin-w=5&margin-h=5">
