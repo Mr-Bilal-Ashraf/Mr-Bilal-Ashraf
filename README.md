@@ -1,37 +1,28 @@
-<div style="display: flex; flex-direction: column; align-items: center; font-family: monospace;">
-    <h1 style="border-bottom: 1px solid #d4c7c7; padding: 10px 20px;">Hello there, I'm Mr.Az here!</h1>
-    <p>I am a young-dumb <span style="font-size: 20px;">🙃</span> Python Django Full Stack Developer from <span
-            style="font-size: 22px;">🇵🇰</span></p>
-</div>
+<h1>Hello there, I'm Mr.Az here!</h1>
+<p>I am a young-dumb 🙃 Python Django Full Stack Developer from 🇵🇰</p>
 
-<ul style="font-size: 18px; line-height: 32px;">
-    <li><span style="font-size: 20px;">📋</span> Ask me about Python (Django), SQL (Schema Creation)</li>
-    <li><span style="font-size: 20px;">📨</span> Reach me at
-        <a href="mailto:mr.bilal2066@gmail.com" target="_blank" style="text-decoration: none;">
+<ul>
+    <li>📋 Ask me about Python (Django), SQL (Schema Creation)</li>
+    <li>📨 Reach me at
+        <a href="mailto:mr.bilal2066@gmail.com" target="_blank">
             <b>mr.bilal2066@gmail.com</b>
         </a>
     </li>
-    <li><span style="font-size: 20px;">⚡</span> Fun Fact
+    <li>⚡ Fun Fact
         <b>Death is more loyal than people!</b>
     </li>
 </ul>
 
-<div style="padding-left: 10px;">
-    <h2>Connect with me:</h2>
-    <div>
-        <a href="mailto:mr.bilal2066@gmail.com" target="_blank">
-            <img src="https://w7.pngwing.com/pngs/718/873/png-transparent-computer-icons-email-symbol-email-miscellaneous-angle-logo.png"
-                 alt="gmail" width="40" height="30">
-        </a>
-        <a href="https://www.linkedin.com/in/muhammad-bilal-azaad/" target="_blank">
-            <img src="https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667"
-                 alt="linkedin" width="40" height="30">
-        </a>
-        <a href="https://t.me/mr_azaad622" target="_blank">
-            <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/telegram-black-icon.svg"
-                 alt="telegram" width="40" height="30">
-        </a>
-    </div>
+<h2>Connect with me:</h2>
+<div>
+    <a href="https://www.linkedin.com/in/muhammad-bilal-azaad/" target="_blank">
+        <img src="https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667"
+             alt="linkedin" width="40" height="30">
+    </a>
+    <a href="https://t.me/mr_azaad622" target="_blank">
+        <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/telegram-black-icon.svg"
+             alt="telegram" width="40" height="30">
+    </a>
 </div>
 
 <div style="padding-left: 10px;">
@@ -76,7 +67,7 @@
     </p>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Bilal-Ashraf&layout=compact" width="400px"
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Bilal-Ashraf&layout=compact&theme=transparent" width="400px"
      height="300px">
 <img src="https://github-readme-stats.vercel.app/api?username=Mr-Bilal-Ashraf&show_icons=true&theme=transparent"
      width="400px" height="300px">
